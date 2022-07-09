@@ -1,7 +1,7 @@
-# OTPEncryption
+ # OTPEncryption
 - The internet is an open and public system we all send and receive information over shared wired and connections .We also
 exchange a lot of private data like credit card numbers, bank information, passwords and emails .
-- Data of any kind can be kept secret through a process known as encryption .Which is defined as descrambling or changing
+- Data of any kind can be kept secret through a process known as encryption .Which is defined as encrypting or changing
 of the message to hide the original text.
 - Decryption is the process of unscrambling that message to make it readable .
 - One of the first well-known methods of encryption was caesar's cipher,named after julius caesar, A roman general who
