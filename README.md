@@ -15,4 +15,4 @@ like caesar's cipher.
 - OTP is an encryption technique that cannot be cracked, but it requires the following
   - 1- Random key that is as long as the message.
   - 2- The key is to be used to encrypt and decrypt a single message and then it is discarded.
-  - 3- The must be securely shared between the sending and receiving parties
+  - 3- The key must be securely shared between the sending and receiving parties.
