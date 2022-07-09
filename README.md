@@ -8,9 +8,10 @@ of the message to hide the original text.
 encrypted his military commands to make sure that if a message was intercepted by enemies, they wouldn't be able to read it.
 - Each encryption algorithms has a key allows the sender to encrypt the message and the receiver to decrypt the message.
 - There are two types of encryption symmetric and asymmetric.
-- When the sender and receiver share the same key to scramble and unscramble a message . it's called symmetric encryption
+- When the sender and the receiver share the same key to scramble and unscramble a message . it's called symmetric encryption
 like caesar's cipher.
-- When there's public key to encrypt data but the secred can only be decrypted by computer with access to the private key.
+- When there's public key to encrypt data but the encrypted message can only be decrypted by computer with access to the
+ private key. It's called asymmetric encryption. 
 - Our project is about one-time pad encryption (OTP) which is symmetric encryption .
 - OTP is an encryption technique that cannot be cracked, but it requires the following
   - 1- Random key that is as long as the message.
