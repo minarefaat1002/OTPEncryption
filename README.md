@@ -12,7 +12,7 @@ encrypted his military commands to make sure that if a message was intercepted b
 like caesar's cipher.
 - When there's public key to encrypt data but the secred can only be decrypted by computer with access to the private key.
 - Our project is about one-time pad encryption (OTP) which is symmetric encryption .
--OTP is an encryption technique that cannot be cracked, but it requires the following
-  1- Random key that is as long as the message.
-  2- The key is to be used to encrypt and decrypt a single message and then it is discarded.
-  3- The must be securely shared between the sending and receiving parties
+- OTP is an encryption technique that cannot be cracked, but it requires the following
+  - 1- Random key that is as long as the message.
+  - 2- The key is to be used to encrypt and decrypt a single message and then it is discarded.
+  - 3- The must be securely shared between the sending and receiving parties
